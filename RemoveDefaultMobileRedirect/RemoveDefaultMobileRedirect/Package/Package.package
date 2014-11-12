@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6e139d3e-bad5-40fb-8271-0479d962b406" solutionId="6e139d3e-bad5-40fb-8271-0479d962b406" resetWebServer="false" name="RemoveDefaultMobileRedirect" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="585014eb-335c-412c-9ecf-517fa430204e" />
+  </features>
+</package>

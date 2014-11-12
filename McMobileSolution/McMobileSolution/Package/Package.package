@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="029f2127-aa2a-40df-9ec7-d9ab5017f235" solutionId="029f2127-aa2a-40df-9ec7-d9ab5017f235" resetWebServer="false" name="McMobileSolution" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="McMobileEntity.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\McMobileEntity\McMobileEntity.csproj" />
+    <projectOutputAssembly location="McMobileRepository.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\McMobileRepository\McMobileRepository.csproj" />
+    <projectOutputAssembly location="McMobileUtilities.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\McMobileUtilities\McMobileUtilities.csproj" />
+  </assemblies>
+  <features>
+    <featureReference itemId="39e2055f-397e-4c69-99d1-0055212b33c4" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4e0935d6-eb00-4d06-8c1f-351174cb19c0" />
+  </projectItems>
+</package>

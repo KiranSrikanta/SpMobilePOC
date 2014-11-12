@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDefaultMobileRedirect", "RemoveDefaultMobileRedirect\RemoveDefaultMobileRedirect.csproj", "{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760CFE5C-170F-47D2-933A-D8FA8EEDCAEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
